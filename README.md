@@ -1,16 +1,17 @@
 # Descrição do projeto:
 
-Tem o como objetivo, fixiar os conhecimentos desenvolvido no curso de programação, ou seja, colocar em prática os conceitos de tecnologias como: Single Page Application (SPA), React.js, Context API, styled-components e react-router-dom.
+Tem como objetivo: fixiar os conhecimentos desenvolvido no curso de programação, ou seja, colocar em prática os conceitos de tecnologias como: Single Page Application (SPA), React.js, Context API, styled-components e react-router-dom.
 
 # Funcionalidades da aplicação:
 
- O projeto é uma home de pokemons, faz a lista de 10 pokemons inicias, tem a opção de acrescentar mais pokemons a lista. Cada pokemon é clicavél, quando clicado é direcionado para uma página interna com detalhes do pokemon.
+ O projeto é uma Home de pokemons, faz a listagem de 10 pokemons inicias, tem a opção de acrescentar mais pokemons a lista. Cada pokemon é clicavél, quando clicado é direcionado para uma página interna com detalhes do pokemon.
 
 # Ferramentas utilizadas:
 
 - React 
 - JavaScrits
 - css
+- html
 
 # Decisões adotadas:
 
