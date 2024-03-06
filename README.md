@@ -21,6 +21,8 @@ Optei por usar o "react-icons" para estilização dos ícones, tanto do botão d
 No seu promt de comando, você pode usar o da sua preferência, faça o seguinte, não use as aspas:  
 
 1 - Execute "git clone https://github.com/Jailson-Viana/pokeapi", baixar o projeto do github;
+
 2 - Execute "npm install", para baixar as depencias necessárias; 
+
 3 - Execute "npm start", inicia o projeto no servidor/internet; 
 
