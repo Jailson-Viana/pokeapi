@@ -1,6 +1,6 @@
 # Descrição do projeto:
 
-Tem como objetivo: fixiar os conhecimentos desenvolvido no curso de programação, ou seja, colocar em prática os conceitos de tecnologias como: Single Page Application (SPA), React.js, Context API, styled-components e react-router-dom.
+Tem como objetivo: fixiar os conhecimentos desenvolvido no curso de programação DevQuest, ou seja, colocar em prática os conceitos de tecnologias como: Single Page Application (SPA), React.js, Context API, styled-components e react-router-dom.
 
 # Funcionalidades da aplicação:
 
